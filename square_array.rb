@@ -1,6 +1,6 @@
 def square_array(array)
   array.each {|num| num ** num}
-    puts square
+
    end
 
 #   def square_array(array)
